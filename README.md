@@ -1,6 +1,6 @@
 ## Synopsis
 
-A simple iOS implementation using Foursquare to suggest venues near a location (https://api.foursquare.com/v2/venues/suggestcompletion) based on a user-input query string. The code performs an additional string-based filter on the Foursquare results as the user types to reduce API calls.
+A simple iOS implementation using Foursquare to suggest venues near a location (https://developer.foursquare.com/docs/venues/suggestcompletion) based on a user-input query string. The code performs an additional string-based filter on the Foursquare results as the user types to reduce API calls.
 
 ## How to Run
 
